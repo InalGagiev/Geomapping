@@ -4,12 +4,12 @@ SpringAngularEcommerce
 
 # Installation
 - склонировать репозиторий
-```mermaid
+```
 git clone https://github.com/InalGagiev/Geomapping
 ```
 
 - сбилдить проект(создать джар файл)
-```mermaid
+```
 gradle build
 ```
 
